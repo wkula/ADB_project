@@ -151,3 +151,6 @@ ipython_config.py
 #   git rm -r .ipynb_checkpoints/
 
 CLEAN_REFIT_081116/
+.idea/
+MetaData_Tables.xlsx
+dbschema.png
